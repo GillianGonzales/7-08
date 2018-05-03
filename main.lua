@@ -3,9 +3,9 @@
 -- main.lua
 --
 -- Created By Gillian Gonzales
--- Created On May 1 2018
+-- Created On May 3 2018
 --
--- this code will Kill the enemy
+-- this code if the enemy dies then makes an exploion
 -----------------------------------------------------------------------------------------
 
 -- Adding Physics
