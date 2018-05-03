@@ -195,7 +195,7 @@ local function onCollision( event )
 			    startColorVarianceAlpha = 1,
 			    maxParticles = 256,
 			    finishParticleSize = 540,
-			    duration = -1,
+			    duration = 0.25,
 			    finishColorRed = 1,
 			    maxRadiusVariance = 72.63,
 			    finishParticleSizeVariance = 250,
